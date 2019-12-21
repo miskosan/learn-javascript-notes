@@ -1,5 +1,4 @@
-# learn-javascript-notes
-My notes while learnig JavaScript
+<h1>My notes while learnig JavaScript.</h1>
 
 These are my notes while learning JavaScript. Based on [Beginner JavaScript course](https://BeginnerJavaScript.com) by Wes Bos and [Learn Enough to Be Dangerous](https://www.learnenough.com/javascript) from Michael Hartl.
 
